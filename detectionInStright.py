@@ -48,7 +48,6 @@ def detect_lanes_in_roi(frame):
 
     return frame, left_midpoint, right_midpoint
 
-git commit -m "Added nili"
 
 def main():
     # Initialize video
