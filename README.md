@@ -15,7 +15,7 @@ The results of the system are demonstrated in the following video outputs:
 - Curvy Lane Detection: `curvey_new.mp4`
 - Crosswalk Detection: `crosswalkVideo.mp4`
 
-The complete project report detailing the methodologies and technologies used is available in `image_processing_project.pdf`.
+The complete project report detailing the methodologiesused is available in `image_processing_project.pdf`.
 
 ## Viewing Results in Jupyter Notebook
 
