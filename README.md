@@ -6,7 +6,6 @@ This project implements a sophisticated lane detection system designed to perfor
 - Curvy Lane Detection
 - Crosswalk Detection
 
-The system processes video feeds using image processing techniques to analyze and detect real-time lane and crosswalk information.
 
 ## Project Results
 
