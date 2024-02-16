@@ -12,7 +12,7 @@ The system processes video feeds using image processing techniques to analyze an
 
 The results of the system are demonstrated in the following video outputs:
 - Lane Detection and Departure: `lane_departure_outputs.mp4`
-- Curvy Lane Detection: `curvey_new.mp4`
+- Curvy Lane Detection + varying lighting conditions : `curvey_new.mp4`
 - Crosswalk Detection: `crosswalkVideo.mp4`
 
 The complete project report detailing the methodologiesused is available in `image_processing_project.pdf`.
